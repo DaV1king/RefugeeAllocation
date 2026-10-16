@@ -1,0 +1,31 @@
+{
+  "desc": "List of refugees",
+  "date": "2026-10-16",
+  "refugees": [
+    {
+      "name": "Amina Noor",
+      "identifier": "9f2a8d11-3b8a-4f69-a2e4-58b1f2b0a111",
+      "groupId": ""
+    },
+    {
+      "name": "Jonas Berg",
+      "identifier": "3d4c9a70-8f01-42c7-aefd-2ac98b76d222",
+      "groupId": "g101"
+    },
+    {
+      "name": "Mariam Ali",
+      "identifier": "6a7b2f45-51d3-4e80-9c4f-5df60a13e333",
+      "groupId": "g101"
+    },
+    {
+      "name": "Oskar Lind",
+      "identifier": "b18f43c9-fc2e-47ca-8f12-0a841be4f444",
+      "groupId": "g202"
+    },
+    {
+      "name": "Fatima Zahra",
+      "identifier": "c5d9e2a3-74a4-431f-bf0e-4f99d8ce7555",
+      "groupId": "g202"
+    }
+  ]
+}
